@@ -10,8 +10,7 @@ This project serves in the pursuit of reliable and transparent image-based music
 
 1. Open the main.ipynb file.
   
-2. Replace the paths:
-  # Specify paths to the datasets
+2. Replace the paths:Specify paths to the datasets
   original_dataset_directory = "PATH TO YOUR DATASET".
 
 3. Run all code. 
