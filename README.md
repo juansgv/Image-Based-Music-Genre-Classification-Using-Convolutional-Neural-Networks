@@ -8,6 +8,6 @@ This project serves in the pursuit of reliable and transparent image-based music
 
 ## Instructions: 
 
-1. Open the main.ipynb file.
-2. Replace the paths to your datasets. 
-3. Run all code. 
+1. Open the main.ipynb file
+2. Replace the paths to your datasets 
+3. Run all code
